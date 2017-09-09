@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="start_activity_elements_width">300dp</dimen>
+    <dimen name="start_activity_buttons_top_margin">25dp</dimen>
+    <dimen name="tab_indicator_height">5dp</dimen>
+</resources>

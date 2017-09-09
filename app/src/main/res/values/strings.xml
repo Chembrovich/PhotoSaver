@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Photo Saver</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="repeat_password_hint">Repeat password</string>
+    <string name="log_in_button">LOG IN</string>
+    <string name="sign_up_button">SIGN UP</string>
+
+</resources>
