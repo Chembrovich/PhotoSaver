@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.chembrovich.bsuir.photosaver.Views.StartActivity">
+    tools:context="com.chembrovich.bsuir.photosaver.Views.StartActivity"
+    android:background="@color/start_activity_background_color">
 
     <android.support.design.widget.TabLayout
         android:id="@+id/tab_layout"
